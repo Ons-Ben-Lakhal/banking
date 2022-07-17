@@ -27,7 +27,7 @@ I want to see the history (operation, date, amount, balance) of my operations
 
 ## Class diagram
 
-![img.png](readme/class_diagram.png)
+![img.png](readme/class_diagram.PNG)
 
 ## Project Structure
 
@@ -72,7 +72,7 @@ I want to see the history (operation, date, amount, balance) of my operations
    Mockito
 ```
 #### Running tests
-![img.png](readme/tests.png)
+![img.png](readme/tests.PNG)
 
 ## Getting Started
 
